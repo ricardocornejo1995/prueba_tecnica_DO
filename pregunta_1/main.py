@@ -78,3 +78,7 @@ async def search_record_by_patente_value(patente_value: str):
         )
     
     return {"id": patente_id}
+
+@app.get("/")
+def main_route():
+    return { "message": "Hello" }

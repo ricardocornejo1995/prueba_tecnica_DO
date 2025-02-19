@@ -9,6 +9,8 @@ Requisitos:
 
 ## Instrucciones Para Ejecución:
 
+* Desde el terminal o CMD, ejeucutar lo siguiente (Debe estar ubicado en el directorio "pregunta_1")
+
 ### Crear y activar virtual environment
 ```python3 -m venv env```
 <br/>
@@ -20,7 +22,7 @@ Requisitos:
 
 ### Instalar Dependencias
 
-```python -m pip install -r requirements.txt```
+```python3 -m pip install -r requirements.txt```
 
 ### Ejecutar API
 
